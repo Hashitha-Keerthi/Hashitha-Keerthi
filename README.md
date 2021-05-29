@@ -5,7 +5,7 @@
 
 
 
-## :raising_hand: About me:
+## :man: About me:
 <!-- I'm an <b>undergraduate</b> at <a href="https://srmap.edu.in/"> <b>University of Moratuwa</b></a>.<br>
 ◽ Intrested in <b>Full-Stack Developement</b>, <b>Game developement</b> and <b>UI designing</b>.<br>
 ◽ I like minimal art style.<br>
