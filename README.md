@@ -7,12 +7,12 @@
 
 ## :man: About me :
 
-◽ Intrested in <b>Full-Stack  Web Developement</b>, <b>Mobile App developement</b>.
+◽ Intrested in <b>Full-Stack  Web Developement</b>, <b>Mobile App developement</b>.<br>
 ◽ I’m currently learning everything about **Frontend** and **Backend** technologies <br>
 
 <br>
-<a href="https://github.com/soilshubham">
-   <img src="https://github-readme-stats.vercel.app/api?username=soilshubham&hide=issues&show_icons=true&theme=gotham&locale=en&layout=compact" alt="Sahil's github stats" width=450px/>
+<a href="https://github.com/Hashitha-Keerthi">
+   <img src="https://github-readme-stats.vercel.app/api?username=Hashitha-Keerthi&hide=issues&show_icons=true&theme=gotham&locale=en&layout=compact" alt="Hashitha's github stats" width=450px/>
 </a><br><br>
 
 <div id="tech"></div>
