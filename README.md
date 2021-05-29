@@ -6,10 +6,9 @@
 
 
 ## :man: About me :
-<!-- I'm an <b>undergraduate</b> at <a href="https://srmap.edu.in/"> <b>University of Moratuwa</b></a>.<br>
-◽ Intrested in <b>Full-Stack Developement</b>, <b>Game developement</b> and <b>UI designing</b>.<br>
-◽ I like minimal art style.<br>
-◽ I’m currently learning everything about **Frontend** and **Backend** technologies.<br>
+
+◽ Intrested in <b>Full-Stack  Web Developement</b>, <b>Mobile App developement</b>.
+◽ I’m currently learning everything about **Frontend** and **Backend** technologies <br>
 
 <br>
 <a href="https://github.com/soilshubham">
@@ -17,7 +16,7 @@
 </a><br><br>
 
 <div id="tech"></div>
-
+<!--
 ## 💻 Things I know
 > <i>Tools, languages, and other things that I like to work with.</i>
 <br>
