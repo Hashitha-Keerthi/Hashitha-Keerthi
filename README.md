@@ -3,7 +3,7 @@
 
 # Hi, you've arrived at Hashitha's Git! <br>I'm not in right now, please leave a [message](https://wa.link/7yyqhb).
 
-<img src="" alt="Hashitha's banner" width=100%>
+<img src="https://github.com/Hashitha-Keerthi/Hashitha-Keerthi/blob/main/gitbanner.gif" alt="Hashitha's banner" width=100%>
 
 ## :raising_hand: About me:
 <!-- I'm an <b>undergraduate</b> at <a href="https://srmap.edu.in/"> <b>University of Moratuwa</b></a>.<br>
