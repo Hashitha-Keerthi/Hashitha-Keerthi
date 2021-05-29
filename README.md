@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Hashitha-Keerthi/Hashitha-Keerthi/blob/main/gitbanner.gif" alt="Hashitha's banner" width=100%>
+<img src="https://github.com/Hashitha-Keerthi/Hashitha-Keerthi/blob/main/git-personal-banner.gif" alt="Hashitha's banner" width=100%>
 
 # Hi, you've arrived at Hashitha's Git! <br>I'm not in right now, please leave a [message](https://wa.link/7yyqhb).
 
