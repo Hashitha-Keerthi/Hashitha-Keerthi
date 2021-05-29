@@ -1,7 +1,7 @@
 
 
 
-# Hi, you've arrived at Hashitha's Git! <br>I'm not in right now, please leave a [message](https://twitter.com/soilshubham).
+# Hi, you've arrived at Hashitha's Git! <br>I'm not in right now, please leave a [message](https://wa.link/7yyqhb).
 
 <img src="" alt="Hashitha's banner" width=100%>
 
