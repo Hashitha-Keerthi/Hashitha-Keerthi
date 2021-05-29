@@ -3,10 +3,10 @@
 
 # Hi, you've arrived at Hashitha's Git! <br>I'm not in right now, please leave a [message](https://twitter.com/soilshubham).
 
-<img src="" alt="sahil's banner" width=100%>
+<img src="" alt="Hashitha's banner" width=100%>
 
 ## :raising_hand: About me:
-I'm an <b>undergraduate</b> at <a href="https://srmap.edu.in/"> <b>University of Moratuwa</b></a>.<br>
+<!-- I'm an <b>undergraduate</b> at <a href="https://srmap.edu.in/"> <b>University of Moratuwa</b></a>.<br>
 ◽ Intrested in <b>Full-Stack Developement</b>, <b>Game developement</b> and <b>UI designing</b>.<br>
 ◽ I like minimal art style.<br>
 ◽ I’m currently learning everything about **Frontend** and **Backend** technologies.<br>
@@ -90,3 +90,4 @@ I'm an <b>undergraduate</b> at <a href="https://srmap.edu.in/"> <b>University of
 Credits: [soilshubham](https://github.com/soilshubham)
 
 Last Edited on: 11/05/2021
+ -->
