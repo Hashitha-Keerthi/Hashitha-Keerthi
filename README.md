@@ -18,7 +18,7 @@
 <div id="tech"></div>
 
 ## 💻 Things I know
-> <i>Tools, languages, and other things that I like to work with.</i>
+<!-- > <i>Tools, languages, and other things that I like to work with.</i>
 <br>
 <table>
   <tr>
@@ -88,5 +88,5 @@
 -----
 Credits: [soilshubham](https://github.com/soilshubham)
 
-Last Edited on: 11/05/2021
+Last Edited on: 11/05/2021 -->
 
